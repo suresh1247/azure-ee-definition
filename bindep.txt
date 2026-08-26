@@ -1,0 +1,4 @@
+python3-devel [platform:rhel-8 platform:rhel-9]
+gcc [compile]
+gcc-c++ [compile]
+make [compile]
