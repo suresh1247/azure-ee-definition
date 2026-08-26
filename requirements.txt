@@ -1,0 +1,4 @@
+azure-cli
+azure-cli-core
+azure-mgmt-resource
+azure-identity
